@@ -8,6 +8,7 @@ All files are organized **day-wise**, covering database creation, table creation
 ## 📂 Repository Structure
 
 Hackerrank-SQL/
+
 .Day 0 #Setup
 
 ---
@@ -28,11 +29,12 @@ Hackerrank-SQL/
      **git clone https://github.com/Aradhna-j/Hackerrank-SQL.git**
 ```
 2.Open the folder in MySQL Workbench or your preferred SQL IDE.
+
 3.Execute the .sql files in order for practice.
 
 ---
 
-##📈 Impact
+## 📈 Impact
 
 .Organized daily SQL practice
 .Easier to track progress and prepare for interviews
@@ -40,7 +42,7 @@ Hackerrank-SQL/
 
 ---
 
-##✨Future Plans
+## ✨Future Plans
 
 .Add more complex queries and scenarios (joins, subqueries, window functions)
 .Keep repository updated with Hackerrank challenges

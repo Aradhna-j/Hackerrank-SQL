@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS my_db;
+USE my_db;
+CREATE TABLE students (
+    id INT PRIMARY KEY,
+    name VARCHAR(50)
+);

@@ -26,7 +26,7 @@ Hackerrank-SQL/
 1. Clone the repository:
 
 ```bash
-     **git clone https://github.com/Aradhna-j/Hackerrank-SQL.git**
+     git clone https://github.com/Aradhna-j/Hackerrank-SQL.git
 ```
 2.Open the folder in MySQL Workbench or your preferred SQL IDE.
 
@@ -37,7 +37,9 @@ Hackerrank-SQL/
 ## 📈 Impact
 
 .Organized daily SQL practice
+
 .Easier to track progress and prepare for interviews
+
 .Structured GitHub portfolio for SQL projects
 
 ---
@@ -45,5 +47,6 @@ Hackerrank-SQL/
 ## ✨Future Plans
 
 .Add more complex queries and scenarios (joins, subqueries, window functions)
+
 .Keep repository updated with Hackerrank challenges
 

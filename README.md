@@ -6,6 +6,7 @@ All files are organized **day-wise**, covering database creation, table creation
 ---
 
 ## 📂 Repository Structure
+
 Hackerrank-SQL/
 .Day 0 #Setup
 
@@ -31,14 +32,16 @@ Hackerrank-SQL/
 
 ---
 
-##**📈 Impact**
+##📈 Impact
+
 .Organized daily SQL practice
 .Easier to track progress and prepare for interviews
 .Structured GitHub portfolio for SQL projects
 
 ---
 
-##**✨Future Plans**
+##✨Future Plans
+
 .Add more complex queries and scenarios (joins, subqueries, window functions)
 .Keep repository updated with Hackerrank challenges
 
